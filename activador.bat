@@ -10,7 +10,7 @@ if "%choice%"=="pro" goto pro
 if "%choice%"=="home" goto home
 
 :pro
-	slmgr/ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T
+	slmgr/ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 	slmgr/ato
 	echo windows activado
 	pause 1000
